@@ -8,7 +8,7 @@ A simple command-line tool (CLI) to fetch songs from the Billboard Hot 100 chart
 ## Installation
 ### 1) Download the repository using CMD
 ```powershell
-git clone "https://github.com/grantmauger15/Billboard-Hot-100-Tool.git"
+git clone "https://github.com/grantmauger15/Billboard-Tool.git"
 cd Billboard-Tool
 ```
 ### 2) Run install.bat
